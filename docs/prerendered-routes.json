@@ -1,0 +1,14 @@
+{
+  "routes": {
+    "/portfolio": {},
+    "/portfolio/certifications": {},
+    "/portfolio/contact": {},
+    "/portfolio/experience": {},
+    "/portfolio/footer": {},
+    "/portfolio/navbar": {},
+    "/portfolio/projects": {},
+    "/portfolio/scroll-to-top": {},
+    "/portfolio/skills": {},
+    "/portfolio/theme-toggle": {}
+  }
+}

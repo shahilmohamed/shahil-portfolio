@@ -1,0 +1,30 @@
+<section id="skills" class="skills-section fade-in">
+    <div class="bg-accent bg-accent-1"></div>
+    <div class="bg-accent bg-accent-2"></div>
+    <div class="container">
+      <div class="section-title">
+        <h2>Skills & Technologies</h2>
+        <p>My technical toolkit and areas of expertise</p>
+      </div>
+  
+      <div class="skills-all-container">
+        <div class="skills-grid">
+          <div
+            class="skill-card"
+            *ngFor="let skill of allSkills"
+            [attr.data-category]="skill.category"
+          >
+            <div class="skill-category-badge">{{ skill.category }}</div>
+            <img
+              [src]="skill.icon"
+              [alt]="skill.name"
+              class="skill-icon"
+              (error)="onImageError($event, skill.name)"
+            />
+            <p class="skill-name">{{ skill.name }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  

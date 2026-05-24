@@ -1,0 +1,25 @@
+<section id="projects" class="projects fade-in">
+    <div class="container">
+      <div class="section-title">
+        <h2>Projects</h2>
+        <p>Selected work and repositories</p>
+      </div>
+  
+      <div class="projects-grid">
+        <div class="card project-card" *ngFor="let p of projects">
+          <div class="project-placeholder">
+            <span>{{ p.title.charAt(0) }}</span>
+          </div>
+          <div class="project-content">
+            <h3>{{ p.title }}</h3>
+            <p>{{ p.desc }}</p>
+            <div class="project-links" *ngIf="p.repo">
+              <a [href]="p.repo" class="project-link github" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a *ngIf="p.demo" [href]="p.demo" class="project-link demo" target="_blank" rel="noopener noreferrer">Demo</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  

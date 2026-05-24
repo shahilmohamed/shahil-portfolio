@@ -1,0 +1,14 @@
+export default `<!doctype html>
+<html lang="en" data-beasties-container="">
+<head>
+  <meta charset="utf-8">
+  <title>PortfolioMy</title>
+  <base href="/portfolio/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>:root{--background:#FFFFFF;--card-bg:#F9FAFB;--text-primary:#111827;--text-secondary:#4B5563;--border:#E5E7EB;--accent:#2563EB;--accent-hover:#1D4ED8;--primary:var(--accent);--text-medium:var(--text-secondary);--badge-bg:#F3F4F6;--badge-text:#374151;--button-light-bg:#E5E7EB;--button-light-text:#111827;--shadow-sm:0 1px 3px rgba(0, 0, 0, .12);--shadow-md:0 4px 6px rgba(0, 0, 0, .1);--shadow-lg:0 10px 15px rgba(0, 0, 0, .1);--shadow:var(--shadow-md);--max-width:1200px;--section-padding:6rem;--transition:all .3s cubic-bezier(.4, 0, .2, 1);--border-radius:.75rem;--border-radius-full:9999px;--secondary:var(--background)}*{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:80px;height:100%}body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;line-height:1.6;font-size:16px;color:var(--text-primary);background-color:var(--background);overflow-x:hidden;height:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;transition:background-color .5s ease,color .5s ease;--background:#0D0D0D;--card-bg:#1A1A1A;--text-primary:#F9FAFB;--text-secondary:#9CA3AF;--border:#2C2C2C;--accent:#3B82F6;--accent-hover:#2563EB;--primary:var(--accent);--badge-bg:#2C2C2C;--badge-text:#E5E7EB;--button-light-bg:#1A1A1A;--button-light-text:#E5E7EB;--shadow-sm:0 1px 3px rgba(0, 0, 0, .5);--shadow-md:0 4px 6px rgba(0, 0, 0, .4);--shadow-lg:0 10px 15px rgba(0, 0, 0, .4);--shadow:var(--shadow-md);--secondary:#121212}@media(max-width:992px){:root,body{--section-padding:4rem}}@media(max-width:768px){:root,body{--section-padding:3rem}}@media(max-width:480px){:root,body{--section-padding:2.5rem}}</style><link rel="stylesheet" href="styles-RK7VYNPH.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-RK7VYNPH.css"></noscript></head>
+<body ngcm="">
+  <app-root></app-root>
+<script src="main-FTC4UFEM.js" type="module"></script></body>
+</html>
+`;
