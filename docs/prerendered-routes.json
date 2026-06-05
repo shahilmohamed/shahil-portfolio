@@ -1,14 +1,14 @@
 {
   "routes": {
-    "/portfolio-my": {},
-    "/portfolio-my/certifications": {},
-    "/portfolio-my/contact": {},
-    "/portfolio-my/experience": {},
-    "/portfolio-my/footer": {},
-    "/portfolio-my/navbar": {},
-    "/portfolio-my/projects": {},
-    "/portfolio-my/scroll-to-top": {},
-    "/portfolio-my/skills": {},
-    "/portfolio-my/theme-toggle": {}
+    "/shahil-portfolio": {},
+    "/shahil-portfolio/certifications": {},
+    "/shahil-portfolio/contact": {},
+    "/shahil-portfolio/experience": {},
+    "/shahil-portfolio/footer": {},
+    "/shahil-portfolio/navbar": {},
+    "/shahil-portfolio/projects": {},
+    "/shahil-portfolio/scroll-to-top": {},
+    "/shahil-portfolio/skills": {},
+    "/shahil-portfolio/theme-toggle": {}
   }
 }
