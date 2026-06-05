@@ -3,7 +3,7 @@ export default `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>Mohamed Shahil | Software Developer</title>
-  <base href="/shahil-portfolio/">
+  <base href="/portfolio-my/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-RK7VYNPH.css"></head>
