@@ -27,23 +27,26 @@ export class Experience {
       period: 'March 2025 – Present',
       isCurrent: true,
       achievements: [
-        'Improved application performance by optimizing MySQL queries and backend services using Java and Spring Boot.',
-        'Increased system uptime and reliability by resolving production issues and implementing permanent bug fixes.',
-        'Developed scalable RESTful APIs using Spring Boot and Hibernate following microservices architecture principles.',
-        'Enhanced code quality by participating in code reviews and following best development practices.',
-        'Delivered backend modules across full SDLC in Agile environment ensuring timely releases.'
+        'Developed and maintained full-stack web applications using Java, Spring Boot, Angular, and MySQL.',
+        'Built RESTful APIs and integrated frontend components with backend services.',
+        'Automated password expiry management by developing a Cron Job-based email notification system that proactively sends password reset emails to users, improving security compliance and reducing support requests.',
+        'Implemented JWT-based authentication and role-based access control for application security.',
+        'Designed and optimized MySQL database structures and queries.'
       ]
     },
     {
       id: 2,
-      role: 'Trainee Software Engineer',
+      role: 'DevOps Intern',
       company: 'Finzly India Pvt. Ltd.',
       location: 'Chennai',
       period: 'July 2022 – October 2022',
       isCurrent: false,
       achievements: [
-        'Developed RESTful APIs using Java and Spring Boot for financial applications.',
-        'Improved API reliability by implementing structured error handling.'
+        'Assisted in setting up CI/CD pipelines using Jenkins and AWS CodePipeline.',
+        'Deployed and monitored applications on AWS EC2 and managed storage via S3.',
+        'Containerized microservices using Docker for consistent dev/prod environments.',
+        'Configured IAM roles and policies to manage access control on AWS.',
+        'Monitored system performance and logs using CloudWatch dashboards.'
       ]
     }
   ];

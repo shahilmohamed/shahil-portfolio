@@ -32,6 +32,11 @@ export class Skills {
       category: 'Languages'
     },
     {
+      name: 'Typescript',
+      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg',
+      category: 'Languages'
+    },
+    {
       name: 'JavaScript',
       icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
       category: 'Languages'
@@ -87,6 +92,11 @@ export class Skills {
     {
       name: 'Git',
       icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg',
+      category: 'Tools'
+    },
+    {
+      name: 'Jira',
+      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg',
       category: 'Tools'
     },
     {

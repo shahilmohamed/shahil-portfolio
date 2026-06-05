@@ -22,7 +22,7 @@ export class Certifications {
     {
       name: 'AWS Cloud Quest: Cloud Practitioner',
       provider: 'Amazon Web Services (AWS)',
-      date: 'July 2022',
+      date: 'September 2022',
       logo: 'https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob'
     },
     {
